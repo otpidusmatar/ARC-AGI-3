@@ -1,0 +1,4 @@
+.venv
+.env
+environment_files
+.DS_Store
